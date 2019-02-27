@@ -1,5 +1,5 @@
 ﻿# Two-Player-Snake-Game
-This is a two player snake game that uses OPENGL.
+A project to learn OPENGL.
 
 # To run
 
